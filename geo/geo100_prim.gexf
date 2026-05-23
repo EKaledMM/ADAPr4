@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft"
+      xmlns:viz="http://www.gexf.net/1.2draft/viz"
+      version="1.2">
+  <graph mode="static" defaultedgetype="undirected">
+    <nodes>
+      <node id="0" label="0">
+        <viz:position x="0.1812114514007832" y="0.22332880303863178" z="0.0"/>
+      </node>
+      <node id="1" label="1">
+        <viz:position x="0.11379345987978506" y="0.2855625027268369" z="0.0"/>
+      </node>
+      <node id="2" label="2">
+        <viz:position x="0.06847750573035294" y="0.6900987974558513" z="0.0"/>
+      </node>
+      <node id="3" label="3">
+        <viz:position x="0.04959780839489203" y="0.15085737693041867" z="0.0"/>
+      </node>
+      <node id="4" label="4">
+        <viz:position x="0.6236473600213135" y="0.6817885373572942" z="0.0"/>
+      </node>
+      <node id="5" label="5">
+        <viz:position x="0.24404415989594275" y="0.3270091702777598" z="0.0"/>
+      </node>
+      <node id="6" label="6">
+        <viz:position x="0.04863712189845815" y="0.9187372510466165" z="0.0"/>
+      </node>
+      <node id="7" label="7">
+        <viz:position x="0.8494221029361215" y="0.4848580352816524" z="0.0"/>
+      </node>
+      <node id="8" label="8">
+        <viz:position x="0.22417681266688672" y="0.3574691612520039" z="0.0"/>
+      </node>
+      <node id="9" label="9">
+        <viz:position x="0.09174016242761163" y="0.5749424327416826" z="0.0"/>
+      </node>
+      <node id="10" label="10">
+        <viz:position x="0.6114203491324425" y="0.31943157066077565" z="0.0"/>
+      </node>
+      <node id="11" label="11">
+        <viz:position x="0.28838751587935074" y="0.7608850682055897" z="0.0"/>
+      </node>
+      <node id="12" label="12">
+        <viz:position x="0.7841660475744752" y="0.06540303177749962" z="0.0"/>
+      </node>
+      <node id="13" label="13">
+        <viz:position x="0.0020997069452404205" y="0.746825886468236" z="0.0"/>
+      </node>
+      <node id="14" label="14">
+        <viz:position x="0.4356598040155396" y="0.06058738702467659" z="0.0"/>
+      </node>
+      <node id="15" label="15">
+        <viz:position x="0.295818761629269" y="0.053410418712857455" z="0.0"/>
+      </node>
+      <node id="16" label="16">
+        <viz:position x="0.9784712295389069" y="0.010854500174963366" z="0.0"/>
+      </node>
+      <node id="17" label="17">
+        <viz:position x="0.8788697809905286" y="0.6033484524046209" z="0.0"/>
+      </node>
+      <node id="18" label="18">
+        <viz:position x="0.5575078899610327" y="0.7675186711277227" z="0.0"/>
+      </node>
+      <node id="19" label="19">
+        <viz:position x="0.03359705357788123" y="0.9418370899971084" z="0.0"/>
+      </node>
+      <node id="20" label="20">
+        <viz:position x="0.8185866641291244" y="0.36890584068547205" z="0.0"/>
+      </node>
+      <node id="21" label="21">
+        <viz:position x="0.2761715200383521" y="0.928636417558708" z="0.0"/>
+      </node>
+      <node id="22" label="22">
+        <viz:position x="0.24217757137768958" y="0.9283755420173798" z="0.0"/>
+      </node>
+      <node id="23" label="23">
+        <viz:position x="0.9877395469738712" y="0.8212439261023643" z="0.0"/>
+      </node>
+      <node id="24" label="24">
+        <viz:position x="0.8504670628140625" y="0.782002643504606" z="0.0"/>
+      </node>
+      <node id="25" label="25">
+        <viz:position x="0.8383419994081719" y="0.8827631727995973" z="0.0"/>
+      </node>
+      <node id="26" label="26">
+        <viz:position x="0.9733111532888646" y="0.6868376983725722" z="0.0"/>
+      </node>
+      <node id="27" label="27">
+        <viz:position x="0.7856340489256658" y="0.2974698490921631" z="0.0"/>
+      </node>
+      <node id="28" label="28">
+        <viz:position x="0.3230765887473749" y="0.3655339069242184" z="0.0"/>
+      </node>
+      <node id="29" label="29">
+        <viz:position x="0.9226577787181344" y="0.18334347235450832" z="0.0"/>
+      </node>
+      <node id="30" label="30">
+        <viz:position x="0.343498131528989" y="0.596599166392879" z="0.0"/>
+      </node>
+      <node id="31" label="31">
+        <viz:position x="0.5480063049169914" y="0.45244079599969245" z="0.0"/>
+      </node>
+      <node id="32" label="32">
+        <viz:position x="0.22774355323093198" y="0.7827492841711663" z="0.0"/>
+      </node>
+      <node id="33" label="33">
+        <viz:position x="0.7080068160846482" y="0.871711396519242" z="0.0"/>
+      </node>
+      <node id="34" label="34">
+        <viz:position x="0.7621645874271223" y="0.09358283653548505" z="0.0"/>
+      </node>
+      <node id="35" label="35">
+        <viz:position x="0.45833574823177936" y="0.5309983193735242" z="0.0"/>
+      </node>
+      <node id="36" label="36">
+        <viz:position x="0.8321208536117116" y="0.5217408981979933" z="0.0"/>
+      </node>
+      <node id="37" label="37">
+        <viz:position x="0.4362982858764619" y="0.593681620042438" z="0.0"/>
+      </node>
+      <node id="38" label="38">
+        <viz:position x="0.22917333714288812" y="0.4184415379607461" z="0.0"/>
+      </node>
+      <node id="39" label="39">
+        <viz:position x="0.6346295556012351" y="0.8772940749199721" z="0.0"/>
+      </node>
+      <node id="40" label="40">
+        <viz:position x="0.8726520648514074" y="0.5801175922219627" z="0.0"/>
+      </node>
+      <node id="41" label="41">
+        <viz:position x="0.47012792417970184" y="0.38507113520138336" z="0.0"/>
+      </node>
+      <node id="42" label="42">
+        <viz:position x="0.380394304349719" y="0.7289986126073758" z="0.0"/>
+      </node>
+      <node id="43" label="43">
+        <viz:position x="0.39891253073539434" y="0.6752469349879696" z="0.0"/>
+      </node>
+      <node id="44" label="44">
+        <viz:position x="0.9265814680262302" y="0.9465750995568435" z="0.0"/>
+      </node>
+      <node id="45" label="45">
+        <viz:position x="0.3603622871401636" y="0.024908109335230577" z="0.0"/>
+      </node>
+      <node id="46" label="46">
+        <viz:position x="0.21931074549759266" y="0.205171495486976" z="0.0"/>
+      </node>
+      <node id="47" label="47">
+        <viz:position x="0.3294208240606856" y="0.5934861090948672" z="0.0"/>
+      </node>
+      <node id="48" label="48">
+        <viz:position x="0.5449367824955632" y="0.7739314202479605" z="0.0"/>
+      </node>
+      <node id="49" label="49">
+        <viz:position x="0.04762326804860206" y="0.1680546981061003" z="0.0"/>
+      </node>
+      <node id="50" label="50">
+        <viz:position x="0.7301396603314569" y="0.35201203786118795" z="0.0"/>
+      </node>
+      <node id="51" label="51">
+        <viz:position x="0.41558082461315515" y="0.25456707229902786" z="0.0"/>
+      </node>
+      <node id="52" label="52">
+        <viz:position x="0.4572306025592606" y="0.8298970343696627" z="0.0"/>
+      </node>
+      <node id="53" label="53">
+        <viz:position x="0.29503227684018074" y="0.7003237205053536" z="0.0"/>
+      </node>
+      <node id="54" label="54">
+        <viz:position x="0.6124086077344635" y="0.04446053855186283" z="0.0"/>
+      </node>
+      <node id="55" label="55">
+        <viz:position x="0.7513413556461155" y="0.8050328769500917" z="0.0"/>
+      </node>
+      <node id="56" label="56">
+        <viz:position x="0.05695422315674914" y="0.8613820499719089" z="0.0"/>
+      </node>
+      <node id="57" label="57">
+        <viz:position x="0.7087533672059283" y="0.4269912767017289" z="0.0"/>
+      </node>
+      <node id="58" label="58">
+        <viz:position x="0.2640874812925288" y="0.23217213622564925" z="0.0"/>
+      </node>
+      <node id="59" label="59">
+        <viz:position x="0.19748262173769493" y="0.4665552927975417" z="0.0"/>
+      </node>
+      <node id="60" label="60">
+        <viz:position x="0.2741680264980021" y="0.4599731730785146" z="0.0"/>
+      </node>
+      <node id="61" label="61">
+        <viz:position x="0.07242878725981361" y="0.23659901093409885" z="0.0"/>
+      </node>
+      <node id="62" label="62">
+        <viz:position x="0.17590339737784633" y="0.1822399589929412" z="0.0"/>
+      </node>
+      <node id="63" label="63">
+        <viz:position x="0.4929046648727726" y="0.939927727905766" z="0.0"/>
+      </node>
+      <node id="64" label="64">
+        <viz:position x="0.5233326190929597" y="0.37585434568330234" z="0.0"/>
+      </node>
+      <node id="65" label="65">
+        <viz:position x="0.49235548489779246" y="0.05694314860281913" z="0.0"/>
+      </node>
+      <node id="66" label="66">
+        <viz:position x="0.8881093960033907" y="0.8867391306034232" z="0.0"/>
+      </node>
+      <node id="67" label="67">
+        <viz:position x="0.4762806864599817" y="0.7487804836883724" z="0.0"/>
+      </node>
+      <node id="68" label="68">
+        <viz:position x="0.6684926194926321" y="0.2819864452513847" z="0.0"/>
+      </node>
+      <node id="69" label="69">
+        <viz:position x="0.2631517621873025" y="0.4252779770076923" z="0.0"/>
+      </node>
+      <node id="70" label="70">
+        <viz:position x="0.9365235553342787" y="0.9657363484057161" z="0.0"/>
+      </node>
+      <node id="71" label="71">
+        <viz:position x="0.12065733466067885" y="0.870133330199724" z="0.0"/>
+      </node>
+      <node id="72" label="72">
+        <viz:position x="0.010772470442759752" y="0.5167537811310645" z="0.0"/>
+      </node>
+      <node id="73" label="73">
+        <viz:position x="0.9165279516352944" y="0.44758909515014544" z="0.0"/>
+      </node>
+      <node id="74" label="74">
+        <viz:position x="0.5134594097897448" y="0.926697397793532" z="0.0"/>
+      </node>
+      <node id="75" label="75">
+        <viz:position x="0.9411500169211019" y="0.07499371053747572" z="0.0"/>
+      </node>
+      <node id="76" label="76">
+        <viz:position x="0.6655639922405324" y="0.3559534131957044" z="0.0"/>
+      </node>
+      <node id="77" label="77">
+        <viz:position x="0.45977981028641957" y="0.9706751214098597" z="0.0"/>
+      </node>
+      <node id="78" label="78">
+        <viz:position x="0.6272326856214768" y="0.5164414769034715" z="0.0"/>
+      </node>
+      <node id="79" label="79">
+        <viz:position x="0.14195177230090805" y="0.5431160713489449" z="0.0"/>
+      </node>
+      <node id="80" label="80">
+        <viz:position x="0.6316476992868959" y="0.4568437144050558" z="0.0"/>
+      </node>
+      <node id="81" label="81">
+        <viz:position x="0.23648843157120514" y="0.2593421656820435" z="0.0"/>
+      </node>
+      <node id="82" label="82">
+        <viz:position x="0.5487381714715476" y="0.0701896019651953" z="0.0"/>
+      </node>
+      <node id="83" label="83">
+        <viz:position x="0.5589858675800575" y="0.6166772309437464" z="0.0"/>
+      </node>
+      <node id="84" label="84">
+        <viz:position x="0.12285250027380923" y="0.9204539826664098" z="0.0"/>
+      </node>
+      <node id="85" label="85">
+        <viz:position x="0.2555814619503445" y="0.464299719957491" z="0.0"/>
+      </node>
+      <node id="86" label="86">
+        <viz:position x="0.7131003375539594" y="0.779076780022476" z="0.0"/>
+      </node>
+      <node id="87" label="87">
+        <viz:position x="0.43469320623445706" y="0.3657560082546749" z="0.0"/>
+      </node>
+      <node id="88" label="88">
+        <viz:position x="0.10658020044273431" y="0.15625033619390016" z="0.0"/>
+      </node>
+      <node id="89" label="89">
+        <viz:position x="0.9536762235046956" y="0.5585160804307552" z="0.0"/>
+      </node>
+      <node id="90" label="90">
+        <viz:position x="0.9751675734834835" y="0.033492155582923844" z="0.0"/>
+      </node>
+      <node id="91" label="91">
+        <viz:position x="0.8455485155720363" y="0.8694946637935376" z="0.0"/>
+      </node>
+      <node id="92" label="92">
+        <viz:position x="0.795688212911066" y="0.43098909438166566" z="0.0"/>
+      </node>
+      <node id="93" label="93">
+        <viz:position x="0.7612592012658307" y="0.3018892174215565" z="0.0"/>
+      </node>
+      <node id="94" label="94">
+        <viz:position x="0.6990337082573598" y="0.552991196293399" z="0.0"/>
+      </node>
+      <node id="95" label="95">
+        <viz:position x="0.24532407882702467" y="0.46463203983940793" z="0.0"/>
+      </node>
+      <node id="96" label="96">
+        <viz:position x="0.5163538185675294" y="0.6002847426234479" z="0.0"/>
+      </node>
+      <node id="97" label="97">
+        <viz:position x="0.1751989183076188" y="0.4632741880692638" z="0.0"/>
+      </node>
+      <node id="98" label="98">
+        <viz:position x="0.44398540135458753" y="0.32199186097404076" z="0.0"/>
+      </node>
+      <node id="99" label="99">
+        <viz:position x="0.20760754177134577" y="0.03723178684646067" z="0.0"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="62" weight="0.04143"/>
+      <edge id="1" source="0" target="46" weight="0.042205"/>
+      <edge id="2" source="46" target="58" weight="0.052288"/>
+      <edge id="3" source="58" target="81" weight="0.038729"/>
+      <edge id="4" source="81" target="5" weight="0.068088"/>
+      <edge id="5" source="5" target="8" weight="0.036367"/>
+      <edge id="6" source="8" target="38" weight="0.061177"/>
+      <edge id="7" source="38" target="69" weight="0.034659"/>
+      <edge id="8" source="69" target="60" weight="0.036402"/>
+      <edge id="9" source="60" target="85" weight="0.019083"/>
+      <edge id="10" source="85" target="95" weight="0.010263"/>
+      <edge id="11" source="95" target="59" weight="0.04788"/>
+      <edge id="12" source="59" target="97" weight="0.022524"/>
+      <edge id="13" source="62" target="88" weight="0.074035"/>
+      <edge id="14" source="88" target="3" weight="0.057237"/>
+      <edge id="15" source="3" target="49" weight="0.01731"/>
+      <edge id="16" source="49" target="61" weight="0.072895"/>
+      <edge id="17" source="61" target="1" weight="0.064097"/>
+      <edge id="18" source="69" target="28" weight="0.084619"/>
+      <edge id="19" source="97" target="79" weight="0.086488"/>
+      <edge id="20" source="79" target="9" weight="0.059448"/>
+      <edge id="21" source="9" target="72" weight="0.099708"/>
+      <edge id="22" source="28" target="87" weight="0.111617"/>
+      <edge id="23" source="87" target="41" weight="0.040357"/>
+      <edge id="24" source="87" target="98" weight="0.04474"/>
+      <edge id="25" source="41" target="64" weight="0.053997"/>
+      <edge id="26" source="98" target="51" weight="0.073164"/>
+      <edge id="27" source="64" target="31" weight="0.080463"/>
+      <edge id="28" source="31" target="80" weight="0.083757"/>
+      <edge id="29" source="80" target="78" weight="0.059761"/>
+      <edge id="30" source="78" target="94" weight="0.080568"/>
+      <edge id="31" source="80" target="57" weight="0.082683"/>
+      <edge id="32" source="57" target="50" weight="0.07797"/>
+      <edge id="33" source="50" target="93" weight="0.058998"/>
+      <edge id="34" source="93" target="27" weight="0.024772"/>
+      <edge id="35" source="50" target="76" weight="0.064696"/>
+      <edge id="36" source="76" target="10" weight="0.06531"/>
+      <edge id="37" source="10" target="68" weight="0.06826"/>
+      <edge id="38" source="27" target="20" weight="0.07867"/>
+      <edge id="39" source="20" target="92" weight="0.066172"/>
+      <edge id="40" source="92" target="7" weight="0.076087"/>
+      <edge id="41" source="7" target="36" weight="0.040739"/>
+      <edge id="42" source="36" target="40" weight="0.071068"/>
+      <edge id="43" source="40" target="17" weight="0.024049"/>
+      <edge id="44" source="7" target="73" weight="0.07676"/>
+      <edge id="45" source="40" target="89" weight="0.083854"/>
+      <edge id="46" source="9" target="2" weight="0.117483"/>
+      <edge id="47" source="2" target="13" weight="0.087315"/>
+      <edge id="48" source="31" target="35" weight="0.119214"/>
+      <edge id="49" source="35" target="37" weight="0.066444"/>
+      <edge id="50" source="37" target="96" weight="0.080327"/>
+      <edge id="51" source="96" target="83" weight="0.045675"/>
+      <edge id="52" source="37" target="43" weight="0.089725"/>
+      <edge id="53" source="43" target="42" weight="0.056852"/>
+      <edge id="54" source="42" target="53" weight="0.09005"/>
+      <edge id="55" source="53" target="11" weight="0.060925"/>
+      <edge id="56" source="11" target="32" weight="0.064465"/>
+      <edge id="57" source="83" target="4" weight="0.091764"/>
+      <edge id="58" source="37" target="30" weight="0.092846"/>
+      <edge id="59" source="30" target="47" weight="0.014417"/>
+      <edge id="60" source="42" target="67" weight="0.097906"/>
+      <edge id="61" source="67" target="48" weight="0.073118"/>
+      <edge id="62" source="48" target="18" weight="0.014112"/>
+      <edge id="63" source="67" target="52" weight="0.083323"/>
+      <edge id="64" source="52" target="74" weight="0.111946"/>
+      <edge id="65" source="74" target="63" weight="0.024445"/>
+      <edge id="66" source="63" target="77" weight="0.045196"/>
+      <edge id="67" source="17" target="26" weight="0.126054"/>
+      <edge id="68" source="13" target="56" weight="0.127012"/>
+      <edge id="69" source="56" target="6" weight="0.057955"/>
+      <edge id="70" source="6" target="19" weight="0.027565"/>
+      <edge id="71" source="56" target="71" weight="0.064301"/>
+      <edge id="72" source="71" target="84" weight="0.050369"/>
+      <edge id="73" source="84" target="22" weight="0.119588"/>
+      <edge id="74" source="22" target="21" weight="0.033995"/>
+      <edge id="75" source="74" target="39" weight="0.130854"/>
+      <edge id="76" source="39" target="33" weight="0.073589"/>
+      <edge id="77" source="33" target="55" weight="0.079523"/>
+      <edge id="78" source="55" target="86" weight="0.046218"/>
+      <edge id="79" source="55" target="24" weight="0.101766"/>
+      <edge id="80" source="24" target="91" weight="0.08763"/>
+      <edge id="81" source="91" target="25" weight="0.015099"/>
+      <edge id="82" source="91" target="66" weight="0.045922"/>
+      <edge id="83" source="66" target="44" weight="0.071137"/>
+      <edge id="84" source="44" target="70" weight="0.021587"/>
+      <edge id="85" source="66" target="23" weight="0.11923"/>
+      <edge id="86" source="62" target="99" weight="0.148434"/>
+      <edge id="87" source="99" target="15" weight="0.089683"/>
+      <edge id="88" source="15" target="45" weight="0.070557"/>
+      <edge id="89" source="45" target="14" weight="0.083323"/>
+      <edge id="90" source="14" target="65" weight="0.056813"/>
+      <edge id="91" source="65" target="82" weight="0.057918"/>
+      <edge id="92" source="82" target="54" weight="0.068672"/>
+      <edge id="93" source="54" target="34" weight="0.157607"/>
+      <edge id="94" source="34" target="12" weight="0.035751"/>
+      <edge id="95" source="12" target="75" weight="0.157277"/>
+      <edge id="96" source="75" target="90" weight="0.053662"/>
+      <edge id="97" source="90" target="16" weight="0.022877"/>
+      <edge id="98" source="75" target="29" weight="0.109916"/>
+    </edges>
+  </graph>
+</gexf>
